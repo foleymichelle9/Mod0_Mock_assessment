@@ -1,0 +1,31 @@
+Object: Plant
+
+Attributes:
+stemColor "green"
+flowerColor "red"
+currentNumberOfLeaves 45
+currentSoilAmount 3 inches
+alive true
+currentNumberOfFlowers 3
+
+Methods:
+trimLeaves 45 - 5 = 40
+waterPlant 45 + 3 = 43
+addSoil 3 inches + 2 Inches = 5 inches
+addColdTemp alive = false
+
+Class: Dog
+
+Attributes:
+furLength 2 inches
+favoriteToys (ball, bone, squirrel)
+eyeColor "brown"
+totalFoodBowlLevel 0 pieces of food
+dogSize 10 Ibs
+
+
+Methods:
+hairCut 2 inches - .5 inches = 1.5 inches
+buyNewToy (ball, bone, squirrel, squeak toy)
+feedDog 0 pieces + 75 pieces =75 pieces of food
+exerciseWithDog 10 Ibs - 1 Ib = 9 Ibs 

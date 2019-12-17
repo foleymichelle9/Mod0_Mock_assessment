@@ -1,0 +1,31 @@
+class: Plant
+
+Attributes:
+stemColor (string)
+flowerColor (string)
+currentNumberOfLeaves (integer)
+currentSoilAmount (integer)
+alive (boolean)
+currentNumberOfFlowers (integer)
+
+Methods:
+trimLeaves (subtracts from currentNumberOfLeaves)
+waterPlant (results in more leaves added to currentNumberOfLeaves)
+addSoil (adds more soil to currentSoilAmmount amount)
+addColdTemp (changes alive boolean to false)
+
+Class: Dog
+
+Attributes:
+furLength (integer)
+favoriteToys (array)
+eyeColor (string)
+totalFoodBowlCapacity (integer)
+dogSize (integer)
+
+
+Methods:
+hairCut (changes furLenth integer)
+buyNewToy (adds new toy to favoriteToys array)
+feedDog (adds to totalFoodBowlCapacity)
+exerciseWithDog (changes dogSize)

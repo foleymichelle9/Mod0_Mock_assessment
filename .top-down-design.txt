@@ -1,0 +1,38 @@
+Making A Sandwich
+
+1 Buy Ingredients
+  1.1 Go to grocery store
+    1.1.1 grab ingredients
+      1.1.1.1 get bread
+        1.1.1.1.1 go to bread aisle
+        1.1.1.1.2 pick out whole wheat bread
+      1.1.1.2 get favorite meat and cheese
+        1.1.1.1.1 go to deli counter
+        1.1.1.1.2 order half a pound of meat and cheese
+      1.1.1.3 get favorite vegetables
+        1.1.1.1.1 go to vegetable aisle
+        1.1.1.1.2 pick out lettuce, onions, tomatoes
+      1.1.1.4 get favorite condiments
+        1.1.1.1.1 go to condiment aisle
+        1.1.1.1.2 pick out ranch, or viniagrette dressing
+2 Prep Ingredients
+  2.1 Put away all ingredients except vegetables
+  2.2 wash and prep vegetables
+    2.2.2 grab cutting board
+    2.2.3 cut off top of tomatoes
+      2.3.2 slice tomato length wise
+    2.2.4 cut off ends of onions
+      2.4.2 slice onions length wise
+    2.2.5 wash and cut lettuce
+      2.2.5.1 let lettuce dry
+3 Assemble Sandwich
+  3.1 grab two slices of bread and place on plate
+    3.1.2 spread butter onto both slices
+  3.2 add layer of lettuce
+  3.3 add 3 slices of onions
+  3.4 add 3 slices of meat
+  3.5 add two slices of cheese
+  3.6 add two slices of tomatoes
+  3.7 add favorite condiments
+  3.8 add second slice of bread on top
+    3.8.1 enjoy sandwich!
